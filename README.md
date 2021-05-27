@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about my journey
 - 📫 How to reach me: mjuliacsouza@gmail.com
-- 😄 Pronouns: they/them (ela/dela e ele/dele em PortuguÊs)
+- 😄 Pronouns: they/them (ela/dela e ele/dele em Português)
 - ⚡ Fun fact: I play guitar and I practice Speedcubing
 
