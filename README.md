@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🔭 I’m currently a mechanical engineering student at Unicamp
-- 🌱 I’m currently learning Python, Data Science, JavaScript, HTML and CSS
+- 🌱 I’m currently learning Python, Data Science, SQL, JavaScript, HTML and CSS
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about my journey
