@@ -1,4 +1,7 @@
-### Olá! 👋
+<--### Olá! 👋--->
+
+<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Maria Júlia Cristofoletti de Souza</h1>
+<h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
 
 - 🔭 I’m currently a mechanical engineering student at Unicamp
 - 🌱 I’m currently learning Python, Data Science, SQL, JavaScript, HTML and CSS
