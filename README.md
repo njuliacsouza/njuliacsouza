@@ -12,9 +12,10 @@
 - 📫 How to reach me: mjuliacsouza@gmail.com
 - 😄 Pronouns: any pronouns
 - ⚡ Fun fact: I play guitar and I practice Speedcubing
+- 🧾 Curriculum: <a href="https://www.linkedin.com/in/maria-júlia-cristofoletti-de-souza-3aaa82207/">Linkedin</a>
 
 <p align="center">
-<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
