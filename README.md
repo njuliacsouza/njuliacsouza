@@ -8,11 +8,12 @@
 - 🌱 I’m currently learning Python, Data Science, SQL, JavaScript, HTML and CSS
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with everything
-<!-- - 💬 Ask me about my journey-->
 - 📫 How to reach me: mjuliacsouza@gmail.com
 - 😄 Pronouns: any pronouns
 - ⚡ Fun fact: I play guitar and I practice Speedcubing
 - 🧾 Curriculum: <a href="https://www.linkedin.com/in/maria-júlia-cristofoletti-de-souza-3aaa82207/">Linkedin</a>
+
+<!-- - 💬 Ask me about my journey-->
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
