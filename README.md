@@ -5,15 +5,17 @@
 <h3 align="center">I'm starting to program, looking for new experiences</h3> 
 
 - 🔭 I’m currently a mechanical engineering student at Unicamp and Data Intern
-- 🌱 I’m currently learning Python, Data Science, SQL, JavaScript, HTML and CSS
-- 👯 I’m looking to collaborate on anything
+- 🌱 I’m currently learning Python, Data Science, SQL, JavaScript, HTML, CSS, Node and React
 - 🤔 I’m looking for help with everything 
 - 📫 How to reach me: mjuliacsouza@gmail.com
-- 😄 Pronouns: any pronouns
-- ⚡ Fun fact: I play guitar and I practice Speedcubing
+- 😄 Pronouns: any pronouns (they/he/she)
+- ⚡ Fun fact: I play guitar and I practice Speedcubing (3x3 and Megaminx)
 - 🧾 Curriculum: <a href="https://www.linkedin.com/in/maria-júlia-cristofoletti-de-souza-3aaa82207/">Linkedin</a>
 
-<!-- - 💬 Ask me about my journey-->
+<!-- 
+- 💬 Ask me about my journey
+- 👯 I’m looking to collaborate on anything
+-->
 
 <p align="center">
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> -->
