@@ -5,7 +5,7 @@
 <h3 align="center">I'm starting to program, looking for new experiences</h3> 
 
 - 🔭 I’m currently a mechanical engineering student at Unicamp and Data Intern
-- 🌱 I’m currently learning Python, Data Science, SQL, JavaScript, HTML, CSS, Node and React
+- 🌱 I’m currently learning Python and Data Science, with interest in SQL, JavaScript, HTML, CSS, Node and React.
 - 🤔 I’m looking for help with everything 
 - 📫 How to reach me: mjuliacsouza@gmail.com
 - 😄 Pronouns: any pronouns (they/he/she)
