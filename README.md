@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python and Data Science, with interest in SQL, JavaScript, HTML, CSS, Node and React.
 - 🤔 I’m looking for help with everything 
 - 📫 How to reach me: mjuliacsouza@gmail.com
-- 😄 Pronouns: any pronouns (she/he/they)
+- 😄 Pronouns: any pronouns 
 - ⚡ Fun fact: I play guitar and I practice Speedcubing (3x3 and Megaminx)
 - 🧾 Curriculum: <a href="https://www.linkedin.com/in/maria-júlia-cristofoletti-de-souza-3aaa82207/">Linkedin</a>
 
