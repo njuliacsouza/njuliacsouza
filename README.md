@@ -33,5 +33,7 @@
   <img src="https://www.fem.unicamp.br/images/LogoFEM/FEM_vertical2d.png" style="width:100px;height:100px;">
   <img src="https://static.wixstatic.com/media/71a94f_c273c5df0225424aa3b52d1c7d20b847~mv2.png/v1/fill/w_140,h_90,al_c,q_85,usm_0.66_1.00_0.01/VAI_Academy_op%C3%A7%C3%A3oF-72.webp" style="width:150px;height:100px;">
   <img src="https://24x7comunicacao.com.br/wp-content/uploads/2016/04/ebac-brazil_logo_black_port.jpg" style="width:100px;height:100px;"> 
+  <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQERyNzgDD_7jw/company-logo_200_200/0/1604087527503?e=2159024400&v=beta&t=0ibfvcTK7uTvkp8Ju5qzBKWC5y8jkWbem9ZDj78zOcc" style="width:100px;height:100px;"> 
+  
   
 </p>
