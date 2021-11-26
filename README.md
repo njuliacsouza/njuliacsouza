@@ -27,6 +27,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center"> 
 </p>
 
+
+
+<!-- 
 ### Formação:
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b2/UNICAMP_logo.svg/1200px-UNICAMP_logo.svg.png" style="width:100px;height:100px;">
@@ -37,3 +40,4 @@
   
   
 </p>
+-->
