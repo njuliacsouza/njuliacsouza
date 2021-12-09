@@ -4,7 +4,6 @@
 <h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Maria Júlia Cristofoletti de Souza</h1>
 <h3 align="center">I'm starting to program, looking for new experiences</h3> 
 
-🏳️‍🌈🏳️‍🌈🏳️‍🌈
 
 - 🔭 I’m currently a mechanical engineering student at Unicamp and Data Analyst Intern at Belvo
 - 🌱 I’m currently learning Python and Data Science.
