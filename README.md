@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently a mechanical engineering student at Unicamp and Data Analyst Intern at Belvo
-- 🌱 I’m currently learning Python and Data Science.
+- 🌱 I’m currently learning Python, SQL and Data Science.
 - 🤔 I’m looking for help with everything 
 - 📫 How to reach me: mjuliacsouza@gmail.com
 - 😄 Pronouns: any pronouns 
