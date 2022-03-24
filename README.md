@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with everything 
 - 📫 How to reach me: mjuliacsouza@gmail.com
 - 😄 Pronouns: any pronouns 
-- ⚡ Fun fact: I play guitar, love reading and I practice Speedcubing (3x3, 2x2, 4x4, 5x5 and Megaminx)
+- ⚡ Fun fact: I play guitar, love reading and I practice Speedcubing 
 - 🧾 Curriculum: <a href="https://www.linkedin.com/in/maria-júlia-cristofoletti-de-souza-3aaa82207/">Linkedin</a>
 
 <!-- 
