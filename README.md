@@ -13,6 +13,11 @@
 - ⚡ Fun fact: I play guitar, love reading and I practice Speedcubing 
 - 🧾 Curriculum: <a href="https://www.linkedin.com/in/maria-júlia-cristofoletti-de-souza-3aaa82207/">Linkedin</a>
 
+
+Courses in progress:
+- Profissão: Cientista de dados - EBAC
+- Trilha: Machine Learning - IAExpert
+- Google Data Analytics - Coursera
 <!-- 
 - 💬 Ask me about my journey
 - 👯 I’m looking to collaborate on anything
