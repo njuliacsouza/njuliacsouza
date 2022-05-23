@@ -11,6 +11,9 @@
 - 😄 Pronouns: any pronouns 
 - ⚡ Fun fact: I play guitar, love reading and I practice Speedcubing 
 
+<p align="center">
+  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python"  width="20" height="20"/> </p>
+
 ### Contatos:
 
 <div>
@@ -23,13 +26,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjuliacsouza&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjuliacsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-Courses in progress:
-- Profissão: Cientista de dados - EBAC
-- Redes Neurais Artificiais em Python - IAExpert
-
-<p align="center">
-  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python"  width="20" height="20"/> 
-  
+    
 ![Snake animation](https://github.com/mjuliacsouza/mjuliacsouza/blob/output/github-contribution-grid-snake.svg)
- </p>
+ 
