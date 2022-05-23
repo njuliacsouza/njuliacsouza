@@ -9,14 +9,7 @@
 - 🌱 I’m currently learning Python, SQL and Data Science.
 - 🤔 I’m looking for help with everything 
 - 😄 Pronouns: any pronouns 
-
-🏳️‍🌈 🏳️‍⚧️
-
-
-### Hobbies:
-- I play 🎸
-- Practice speedcubing  
-- Love reading 📖
+- 🌈 Fun Fact: I play 🎸, oractice speedcubing and love reading 📖 (🏳️‍🌈 🏳️‍⚧️)
 
 ### Contatos:
 
