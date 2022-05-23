@@ -9,6 +9,9 @@
 - 🌱 I’m currently learning Python, SQL and Data Science.
 - 🤔 I’m looking for help with everything 
 - 😄 Pronouns: any pronouns 
+
+🏳️‍🌈 🏳️‍⚧️
+
 <p align="center">
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python"  width="20" height="20"/> </p>
 
@@ -31,4 +34,3 @@
 </div>
     
 ![Snake animation](https://github.com/mjuliacsouza/mjuliacsouza/blob/output/github-contribution-grid-snake.svg)
-🌈 🏳️‍⚧️
