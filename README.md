@@ -1,7 +1,7 @@
-<!--### Olá! 👋
+<!--### Olá! 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 -->
 
-<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Maria Júlia Cristofoletti de Souza</h1>
+<h1 align="center">Olá! , I'm Maria Júlia Cristofoletti de Souza</h1>
 <!-- <h3 align="center">I'm starting to program, looking for new experiences</h3>  -->
 
 
