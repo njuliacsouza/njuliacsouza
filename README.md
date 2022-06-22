@@ -10,6 +10,7 @@
 - 🤔 I’m looking for help with everything 
 - 😄 Pronouns: any pronouns 
 - 🌈 Fun Fact: I play 🎸, practice speedcubing and love reading 📖 (🏳️‍🌈 🏳️‍⚧️)
+- 📊 [Kaggle](https://www.kaggle.com/mjuliacsouza)
 
 ### Contatos:
 
