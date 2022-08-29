@@ -6,6 +6,7 @@
 
 
 - 🔭 I’m currently an Associate Software Engineer in Data Science at Belvo
+- :books: Graduate at Unicamp (Mechanical Engineering)
 - 🌱 I’m currently learning Python, SQL and Data Science.
 - 🤔 I’m looking for help with everything 
 - 😄 Pronouns: any pronouns 
