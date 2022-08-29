@@ -5,7 +5,7 @@
 <!-- <h3 align="center">I'm starting to program, looking for new experiences</h3>  -->
 
 
-- 🔭 I’m currently a mechanical engineering student at Unicamp and an Associate Software Engineer in Data Science at Belvo
+- 🔭 I’m currently an Associate Software Engineer in Data Science at Belvo
 - 🌱 I’m currently learning Python, SQL and Data Science.
 - 🤔 I’m looking for help with everything 
 - 😄 Pronouns: any pronouns 
