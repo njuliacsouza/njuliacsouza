@@ -9,7 +9,7 @@
 - :books: Graduate at Unicamp (Mechanical Engineering)
 - 🌱 I’m currently learning Python, SQL and Data Science.
 - 🤔 I’m looking for help with everything 
-- 😄 Pronouns: any pronouns 
+- 😄 Pronouns: any pronouns (he/they/she)
 - 🌈 Fun Fact: I play 🎸, practice speedcubing and love reading 📖 (🏳️‍🌈 🏳️‍⚧️)
 - 📊 [Kaggle](https://www.kaggle.com/mjuliacsouza)
 
