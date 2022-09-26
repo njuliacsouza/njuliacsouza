@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently an Associate Software Engineer in Data Science at Belvo
-- :books: Graduate at Unicamp (Mechanical Engineering)
+- :books: Graduate at Unicamp (Mechanical Engineering) and currently doing a MBA in ESALQ-USP
 - 🌱 I’m currently learning Python, SQL and Data Science.
 - 🤔 I’m looking for help with everything 
 - 😄 Pronouns: any pronouns (he/they/she)
