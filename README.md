@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently an Associate Software Engineer in Data Science at Belvo
 - :books: Graduate at Unicamp (Mechanical Engineering) and currently doing a MBA in ESALQ-USP on Data Science and Analytics
-- 🌱 I’m currently learning Python, R, SQL and Data Science.
+- 🌱 I’m currently learning Python, R, SQL and Machine Learning.
 - 🤔 I’m looking for help with everything 
 - 😄 Pronouns: any pronouns (he/they/she)
 - 🌈 Fun Fact: I play 🎸, practice speedcubing and love reading 📖 (🏳️‍🌈 🏳️‍⚧️)
